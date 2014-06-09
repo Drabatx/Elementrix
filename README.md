@@ -1,0 +1,1 @@
+Elementrix es un juego diseñado con Libgdx.
